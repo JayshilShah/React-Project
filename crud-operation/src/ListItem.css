@@ -1,0 +1,47 @@
+.ListItem {
+    color: white;
+    width: 300px;
+    border-radius: 5px;
+    background-color: deeppink;
+    height: 40px;
+    margin: 20px auto;
+}
+
+p {
+    padding: 10px;
+    position: relative;
+}
+
+span {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+
+.faicon {
+    margin: 0 5px;
+    font-size: 15px;
+}
+
+.faicon2 {
+    margin: 0 5px;
+    font-size: 15px;
+}
+
+p .input1 {
+    background-color: transparent;
+    border: 0;
+    color: white;
+    font-size: 18px; 
+    outline: none;
+}
+
+p .input2 {
+    background-color: transparent;
+    border: 0;
+    color: yellow;
+    font-size: 18px; 
+    outline-style: solid;
+    outline-color: yellow;
+}
+
