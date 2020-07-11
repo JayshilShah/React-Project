@@ -1,0 +1,20 @@
+.IceCreamStyle{
+    height: 400px;
+    width: 600px;
+}
+
+.DonutStyle{
+    height: 400px;
+    width: 350px;
+}
+
+.CakeStyle{
+    height: 400px;
+    width: 400px;
+}
+
+.buttonStyle{
+    background-color: green;
+    font-size: large;
+    color: white;
+}
